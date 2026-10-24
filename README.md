@@ -290,18 +290,5 @@ npm run build
 
 The production deployment strategy must define how the frontend build is served and how API requests are routed to Django.
 
-## Contributing
-
-Contributions and improvements are welcome.
-
-1. Create a branch for your changes.
-2. Keep changes focused and consistent with the existing architecture.
-3. Add or update tests where appropriate.
-4. Update the documentation when the setup or project structure changes.
-
-## License
-
-Choose and add a license before distributing this template publicly. Until a license is specified, do not assume that others have permission to reuse or redistribute the repository.
-
 ---
 **Documentation:** [English](README.md) · [Français](README.fr.md)

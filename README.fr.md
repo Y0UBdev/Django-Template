@@ -746,10 +746,4 @@ Pour le frontend, les commandes disponibles dépendent des scripts définis dans
 
 ---
 
-## Licence
-
-Ajouter ici la licence choisie pour le template, par exemple MIT, si tu souhaites autoriser sa réutilisation et sa modification selon les conditions de cette licence.
-
----
-
 **Objectif du template :** fournir un socle cohérent, compréhensible et maintenable pour démarrer rapidement des projets Django + React, tout en permettant à chaque projet d'évoluer selon ses besoins propres.
