@@ -38,11 +38,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     
+    # third-party
     'rest_framework',
     'django_filters',
     
-    'apps.users.apps.UsersConfig',
-    'apps.orders.apps.OrdersConfig',
+    # local
 ]
 
 MIDDLEWARE = [
