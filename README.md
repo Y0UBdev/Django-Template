@@ -1,4 +1,4 @@
-# Django + React Starter Template
+# Modular Monolith Django Architecture
 
 **A reusable full-stack starter template built with Django, Django REST Framework, React, TypeScript, and Vite.**
 

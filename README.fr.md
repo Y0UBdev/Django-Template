@@ -1,4 +1,4 @@
-# Django React Starter Template
+# Architecture Django Monolithe Modulaire
 
 Template de démarrage pour développer des applications web avec **Django, Django REST Framework, React et TypeScript**.
 
